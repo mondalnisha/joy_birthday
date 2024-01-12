@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+.section-click {
+   padding-top: 50px;
+   padding-bottom: 50px;
+   text-align: center;
+ 
+}
+.click {
+    border: 1px solid #9d9d9d;
+    background: linear-gradient(96deg, rgba(35,158,204,1) 0%, rgba(233,15,140,1) 100%);
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.click:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
